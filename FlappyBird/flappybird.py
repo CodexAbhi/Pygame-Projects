@@ -2,6 +2,8 @@ import pygame
 from pygame.locals import *
 import random
 
+# trying some changes here and there
+
 pygame.init()
 
 clock = pygame.time.Clock()
